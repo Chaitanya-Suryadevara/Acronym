@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AcromineSample</string>
+
+    <!-- String related to the longForm retrieval -->
+    <string name="prompt_short_form">Acronym</string>
+    <string name="action_get_long_form">Search</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="error_invalid_short_form">Not a valid username</string>
+    <string name="error_no_internet">Password must be >5 characters</string>
+    <string name="error_server_not_reachable">Password must be >5 characters</string>
+    <string name="error_no_result_found">Password must be >5 characters</string>
+
+</resources>
